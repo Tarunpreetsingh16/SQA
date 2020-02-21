@@ -1,0 +1,6 @@
+C:\Users\tarun\Desktop\courseWork\Level2\Software Quality Assurance Techniques\Assignments\assignment\SQA\Assignment2\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\tarun\Desktop\courseWork\Level2\Software Quality Assurance Techniques\Assignments\assignment\SQA\Assignment2\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\tarun\Desktop\courseWork\Level2\Software Quality Assurance Techniques\Assignments\assignment\SQA\Assignment2\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\tarun\Desktop\courseWork\Level2\Software Quality Assurance Techniques\Assignments\assignment\SQA\Assignment2\Assignment02\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+C:\Users\tarun\Desktop\courseWork\Level2\Software Quality Assurance Techniques\Assignments\assignment\SQA\Assignment2\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\tarun\Desktop\courseWork\Level2\Software Quality Assurance Techniques\Assignments\assignment\SQA\Assignment2\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
